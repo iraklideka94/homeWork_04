@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">homework_04</string>
+    <string name="scroll">scrollView</string>
+    <string name="rect_img_dsk">rect_img_dsk</string>
+    <string name="hello">Hello!</string>
+    <string name="lets_introduce">lets introduce</string>
+    <string name="full_name">Your full name</string>
+    <string name="username">Username</string>
+    <string name="back_btn">Back Button</string>
+    <string name="next_bttn">Next Button</string>
+    <string name="next_btn">Next button</string>
+    <string name="userImg">UserImg</string>
+</resources>
